@@ -1,0 +1,2 @@
+defalutspi=spi.spiInterface.impl.DefalutSpiImpl
+testspi=spi.spiInterface.impl.TestSpiImpl
